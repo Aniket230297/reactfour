@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactfour/static/css/main.9f4b565d.css",
+    "main.js": "/reactfour/static/js/main.e4dfe729.js",
+    "index.html": "/reactfour/index.html",
+    "main.9f4b565d.css.map": "/reactfour/static/css/main.9f4b565d.css.map",
+    "main.e4dfe729.js.map": "/reactfour/static/js/main.e4dfe729.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f4b565d.css",
+    "static/js/main.e4dfe729.js"
+  ]
+}
